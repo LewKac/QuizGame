@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name" translatable="false">Quiz</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+
+
+
+    <string name="welcome">Welcome to quiz game!</string>
+    <string name="return_main_menu">Return to main menu</string>
+    <string name="start_quiz">Start the quiz!</string>
+    <string name="show_high_score" translatable="false">Highscore</string>
+    <string name="write_username">Write your username here</string>
+    <string name="empty" translatable="false">Empty</string>
+
+
+    <!-- Questions tab -->
+    <string name="question1">What is the main distinguishing element setting anorthite apart from albite?</string>
+    <string name="question2">In what kind of rock would you expect to find porphyrobalstic garnet?</string>
+    <string name="question3">Which of these MMORPGS released first?</string>
+    <string name="question4">Who is the Egyptian god of reproduction and lettuce?</string>
+    <string name="question5">What was the name of the German offensive operation in October 1941 to take Moscow before winter?</string>
+    <string name="question6">How many officially recognized dwarf planets in the solar system are named after Polynesian deities?</string>
+    <string name="question7">In the Portal series, Aperture Science was founded under what name in the early 1940s?</string>
+    <string name="question8">Which of these Japanese islands is the largest by area?</string>
+    <string name="question9">How many classes are there in Team Fortress 2?</string>
+    <string name="question10">Deuterium is an isotope of which element?</string>
+    <string name="question11">What is the Polish city known to Germans as Danzig?</string>
+    <string name="question12">How old is the universe?</string>
+    <string name="question13">The idea of Socialism was articulated and advanced by whom?</string>
+    <string name="question14">What is the bloodiest event in United States history, in terms of casualties?</string>
+    <string name="question15">Which Nirvana album had a naked baby on the cover?</string>
+    <string name="question16">Which sign of the zodiac is represented by the Crab?</string>
+    <string name="question17">In the Half-Life series, Gordon Freeman\'s signature weapon is a:</string>
+    <string name="question18">Which of the following men does not have a chemical element named after him?</string>
+    <string name="question19">Which of the following is not a character in the video game Doki Doki Literature Club?</string>
+    <string name="question20">Who was Tetris created by?</string>
+
+
+    <!-- Correct Answer Tab -->
+    <string name="correct_answer_1" translatable="false">Magnesium</string>
+    <string name="correct_answer_2">Sedimentary</string>
+    <string name="correct_answer_3" translatable="false">Phantasy Star Online 2</string>
+    <string name="correct_answer_4" translatable="false">Min</string>
+    <string name="correct_answer_5">Operation Typhoon</string>
+    <string name="correct_answer_6" translatable="false">2</string>
+    <string name="correct_answer_7" translatable="false">Aperture Fixtures</string>
+    <string name="correct_answer_8" translatable="false">Shikoku</string>
+    <string name="correct_answer_9" translatable="false">9</string>
+    <string name="correct_answer_10" translatable="false">Hydrogen</string>
+    <string name="correct_answer_11" translatable="false">Gdańsk</string>
+    <string name="correct_answer_12">13.8 Billion Years</string>
+    <string name="correct_answer_13" translatable="false">Karl Marx</string>
+    <string name="correct_answer_14">Battle of Antietam</string>
+    <string name="correct_answer_15" translatable="false">Nevermind</string>
+    <string name="correct_answer_16">Cancer</string>
+    <string name="correct_answer_17">Crowbar</string>
+    <string name="correct_answer_18" translatable="false">Sir Isaac Newton</string>
+    <string name="correct_answer_19" translatable="false">Nico</string>
+    <string name="correct_answer_20" translatable="false">Alexey Pajitnov</string>
+
+    <string name="wrong_answer1_1">Calcium</string>
+    <string name="wrong_answer1_2">Potassium</string>
+    <string name="wrong_answer1_3">Sodium</string>
+    <string name="wrong_answer2_1" translatable="false">Plutonic</string>
+    <string name="wrong_answer2_2">Extrusive</string>
+    <string name="wrong_answer2_3">Metamorphic</string>
+    <string name="wrong_answer3_1" translatable="false">MapleStory</string>
+    <string name="wrong_answer3_2" translatable="false">Final Fantasy XIV</string>
+    <string name="wrong_answer3_3" translatable="false">TERA</string>
+    <string name="wrong_answer4_1" translatable="false">Menu</string>
+    <string name="wrong_answer4_2" translatable="false">Mut</string>
+    <string name="wrong_answer4_3" translatable="false">Meret</string>
+    <string name="wrong_answer5_1">Operation Sunflower</string>
+    <string name="wrong_answer5_2">Case Blue</string>
+    <string name="wrong_answer5_3">Operation Barbarosa</string>
+    <string name="wrong_answer6_1" translatable="false">0</string>
+    <string name="wrong_answer6_2" translatable="false">1</string>
+    <string name="wrong_answer6_3" translatable="false">5</string>
+    <string name="wrong_answer7_1" translatable="false">Aperture Lavatories</string>
+    <string name="wrong_answer7_2" translatable="false">Aperture Science Innovators</string>
+    <string name="wrong_answer7_3" translatable="false">Wheatley Laboratories</string>
+    <string name="wrong_answer8_1" translatable="false">Iki</string>
+    <string name="wrong_answer8_2" translatable="false">Odaiba</string>
+    <string name="wrong_answer8_3" translatable="false">Okinawa</string>
+    <string name="wrong_answer9_1" translatable="false">10</string>
+    <string name="wrong_answer9_2" translatable="false">8</string>
+    <string name="wrong_answer9_3" translatable="false">7</string>
+    <string name="wrong_answer10_1" translatable="false">Nitrogen</string>
+    <string name="wrong_answer10_2" translatable="false">Helium</string>
+    <string name="wrong_answer10_3" translatable="false">Neon</string>
+    <string name="wrong_answer11_1" translatable="false">Warsaw</string>
+    <string name="wrong_answer11_2" translatable="false">Zakopane</string>
+    <string name="wrong_answer11_3" translatable="false">Poznań</string>
+    <string name="wrong_answer12_1">4.5 Billion Years</string>
+    <string name="wrong_answer12_2">7.9 Billion Years</string>
+    <string name="wrong_answer12_3">16.2 Billion Years</string>
+    <string name="wrong_answer13_1" translatable="false">Vladimir Lenin</string>
+    <string name="wrong_answer13_2" translatable="false">Joseph Stalin</string>
+    <string name="wrong_answer13_3" translatable="false">Vladimir Putin</string>
+    <string name="wrong_answer14_1" translatable="false">Pearl Harbor</string>
+    <string name="wrong_answer14_2">September 11th</string>
+    <string name="wrong_answer14_3">D-Day</string>
+    <string name="wrong_answer15_1" translatable="false">Bleach</string>
+    <string name="wrong_answer15_2" translatable="false">In Utero</string>
+    <string name="wrong_answer15_3" translatable="false">Incesticide</string>
+    <string name="wrong_answer16_1">Libra</string>
+    <string name="wrong_answer16_2">Virgo</string>
+    <string name="wrong_answer16_3">Sagittarius</string>
+    <string name="wrong_answer17_1">Sledgehammer</string>
+    <string name="wrong_answer17_2" translatable="false">Fiber Wire</string>
+    <string name="wrong_answer17_3" translatable="false">Katana</string>
+    <string name="wrong_answer18_1" translatable="false">Albert Einstein</string>
+    <string name="wrong_answer18_2" translatable="false">Niels Bohr</string>
+    <string name="wrong_answer18_3" translatable="false">Enrico Fermi</string>
+    <string name="wrong_answer19_1" translatable="false">Monika</string>
+    <string name="wrong_answer19_2" translatable="false">Natsuki</string>
+    <string name="wrong_answer19_3" translatable="false">Sayori</string>
+    <string name="wrong_answer20_1" translatable="false">Toru Iwatani</string>
+    <string name="wrong_answer20_2" translatable="false">Allan Alcorn</string>
+    <string name="wrong_answer20_3" translatable="false">William Higinbotham</string>
+
+
+
+</resources>
